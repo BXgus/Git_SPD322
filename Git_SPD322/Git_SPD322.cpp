@@ -3,7 +3,11 @@
 
 #include <iostream>
 
-void func()
+void func2()
+{
+    std::cout << "Funk 2\n";
+}
+void func1()
 {
     std::cout << "Funk 1\n";
 }
