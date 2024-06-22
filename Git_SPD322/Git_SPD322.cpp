@@ -3,6 +3,10 @@
 
 #include <iostream>
 
+void func4()
+{
+    std::cout << "Funk 4\n";
+}
 void func3()
 {
     std::cout << "Funk 3\n";
