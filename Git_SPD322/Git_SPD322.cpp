@@ -7,6 +7,10 @@ void func6()
 {
     std::cout << "Funk 666\n";
 }
+void func7()
+{
+    std::cout << "Funk 7\n";
+}
 void func5()
 {
     std::cout << "Funk 5\n";
